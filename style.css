@@ -583,6 +583,7 @@ iframe {
     flex-wrap: wrap;
     justify-content: center;
     padding: 20px; /* Reducido para dispositivos móviles */
+    margin-top: 80px;
 }
 
 .card {
