@@ -647,11 +647,12 @@ iframe {
     box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
     border-radius: 10px;
     overflow: auto; /* Habilita el scroll si el contenido es largo */
+    text-transform: uppercase;
 }
 .card .back h3{
    
     text-align: center;
-    text-transform: uppercase;
+   
     
 }
 .card .back p{
