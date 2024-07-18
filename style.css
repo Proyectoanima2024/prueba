@@ -701,12 +701,12 @@ iframe {
     }
 
     .card .back h3 {
-        font-size: 20px; /* Ajusta el tamaño de fuente del título */
+        font-size: 22px; /* Ajusta el tamaño de fuente del título */
         line-height: 1.2; /* Ajusta la altura de la línea */
     }
 
     .card .back p {
-        font-size: 16px; /* Ajusta el tamaño de fuente del párrafo */
+        font-size: 18px; /* Ajusta el tamaño de fuente del párrafo */
         line-height: 1.4; /* Ajusta la altura de la línea */
         text-align: left; /* Alinea el texto a la izquierda */
         word-break: break-word; /* Permite el corte de palabras largas */
@@ -724,12 +724,12 @@ iframe {
     }
 
     .card .back h3 {
-        font-size: 18px; /* Ajusta el tamaño de fuente del título */
+        font-size: 20px; /* Ajusta el tamaño de fuente del título */
         line-height: 1.2; /* Ajusta la altura de la línea */
     }
 
     .card .back p {
-        font-size: 12px; /* Ajusta el tamaño de fuente del párrafo */
+        font-size: 16px; /* Ajusta el tamaño de fuente del párrafo */
         line-height: 1.4; /* Ajusta la altura de la línea */
         text-align: left; /* Alinea el texto a la izquierda */
         word-break: break-word; /* Permite el corte de palabras largas */
@@ -803,11 +803,11 @@ iframe {
     }
 
     .text-box h2 {
-        font-size: 18px; /* Ajusta el tamaño del título */
+        font-size: 22px; /* Ajusta el tamaño del título */
     }
 
     .text-box p {
-        font-size: 12px; /* Ajusta el tamaño del texto */
+        font-size: 18px; /* Ajusta el tamaño del texto */
         text-align: left; /* Alinea el texto a la izquierda */
         word-break: break-word; /* Permite el corte de palabras largas */
     }
