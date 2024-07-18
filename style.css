@@ -627,6 +627,7 @@ iframe {
     padding: 10px;
     background-color: rgba(0,0,0,.4);
     color: #fff;
+    font-weight: bold;
     text-align: center;
 }
 .card .back {
